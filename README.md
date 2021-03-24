@@ -32,8 +32,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-ebedf0?style=flat-square&logo=linux)&nbsp;
 <br/>
 
-<a href="https://orlandoarnosa.com"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=oarnosa&show_icons=true&bg_color=fafbfc&hide=issues,contribs&count_private=true&include_all_commits=1"/></a>
-<a href="https://orlandoarnosa.com"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarnosa&layout=compact&hide=css&bg_color=fafbfc"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=oarnosa&show_icons=true&bg_color=fafbfc&hide=issues,contribs&count_private=true&include_all_commits=1"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarnosa&layout=compact&hide=css&bg_color=fafbfc&exclude_repo=phoenix-wellness"/></a>
 
 
 [![Protfolio Badge](https://img.shields.io/badge/-orlandoarnosa.com-ebedf0?style=flat-square&logo=Google%20Chrome&logoColor=white&labelColor=15847D&link=https://orlandoarnosa.com)](https://orlandoarnosa.com)
