@@ -15,15 +15,15 @@
 ![Express](https://img.shields.io/badge/-Express-eee?style=flat&logo=express)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-eee?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-eee?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-eee?style=flat&logo=flask)\
+![Flask](https://img.shields.io/badge/-Flask-eee?style=flat&logo=flask&logoColor=black)\
 ![HTML](https://img.shields.io/badge/-HTML-eee?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-eee?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-eee?style=flat&logo=SASS&logoColor=bf4080)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-eee?style=flat&logo=markdown)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-eee?style=flat&logo=markdown&logoColor=343a40)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-eee?style=flat&logo=tailwind%20css)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-eee?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-eee?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-eee?style=flat&logo=github)\
+![GitHub](https://img.shields.io/badge/-GitHub-eee?style=flat&logo=github&logoColor=black)\
 ![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=flat&logo=GraphQL&logoColor=bf4080)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat&logo=mongodb)&nbsp;
@@ -32,7 +32,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-eee?style=flat&logo=linux)&nbsp;
 <br/>
 
-![Orlando's github stats](https://github-readme-stats.vercel.app/api?username=oarnosa&theme=vue&show_icons=true&hide=issues&count_private=true&include_all_commits=1)
+![Orlando's github stats](https://github-readme-stats.vercel.app/api?username=oarnosa&show_icons=true&hide=issues&count_private=true&include_all_commits=1)
 <br/>
 
 [![Protfolio Badge](https://img.shields.io/badge/-orlandoarnosa.com-eee?style=flat-square&logo=Google%20Chrome&logoColor=white&labelColor=15847D&link=https://orlandoarnosa.com)](https://orlandoarnosa.com)
