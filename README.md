@@ -12,7 +12,7 @@
 ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=764abc)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-eee?style=flat-square&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-eee?style=flat-square&logo=express)&nbsp;
+![Express](https://img.shields.io/badge/-Express-eee?style=flat-square&logo=express&logoColor=343a40)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-eee?style=flat-square&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-eee?style=flat-square&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-eee?style=flat-square&logo=flask&logoColor=black)\
