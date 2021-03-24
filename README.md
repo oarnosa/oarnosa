@@ -32,7 +32,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-eee?style=flat&logo=linux)&nbsp;
 <br/>
 
-![Orlando's github stats](https://github-readme-stats.vercel.app/api?username=oarnosa&theme=nord&show_icons=true&hide=issues&count_private=true&include_all_commits=1)
+![Orlando's github stats](https://github-readme-stats.vercel.app/api?username=oarnosa&theme=vue&show_icons=true&hide=issues&count_private=true&include_all_commits=1)
 <br/>
 
 [![Protfolio Badge](https://img.shields.io/badge/-orlandoarnosa.com-eee?style=flat-square&logo=Google%20Chrome&logoColor=white&labelColor=15847D&link=https://orlandoarnosa.com)](https://orlandoarnosa.com)
