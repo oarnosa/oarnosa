@@ -1,9 +1,9 @@
-## Hey, I'm [Orlando](https://orlandoarnosa.com) 👋 - a tech enthusiast and full stack dev.
+## Hey, I'm [Orlando](https://orlandoarnosa.com) 👋 &mdash; a tech enthusiast and full stack dev.
 
 • Focused on **JavaScript** stack, currently learning **Python** 🐍
-<br/>• Computer Science graduate from **Florida International University** 🎓
+<br/>• Computer Science graduate from Florida International University 🎓
 <br/>• Enthusiast about the best development technologies 👩🏻‍💻
-<br/>• I love to talk about: **Programming, Science, Gaming, Music** 🎮
+<br/>• I love to talk about: Programming, Science, Gaming, Music 🎮
 <br/>• Contact me at oarnosa@gmail.com 💌
 
 ### Languages and Tools:
@@ -32,8 +32,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-ebedf0?style=flat-square&logo=linux)&nbsp;
 <br/>
 
-![Orlando's github stats](https://github-readme-stats.vercel.app/api?username=oarnosa&show_icons=true&bg_color=fafbfc&hide=issues&count_private=true&include_all_commits=1)
-<br/>
+<a href="https://orlandoarnosa.com"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=oarnosa&show_icons=true&bg_color=fafbfc&hide=issues,contribs&count_private=true&include_all_commits=1"/></a>
+<a href="https://orlandoarnosa.com"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarnosa&layout=compact&hide=css&bg_color=fafbfc"/></a>
+
 
 [![Protfolio Badge](https://img.shields.io/badge/-orlandoarnosa.com-ebedf0?style=flat-square&logo=Google%20Chrome&logoColor=white&labelColor=15847D&link=https://orlandoarnosa.com)](https://orlandoarnosa.com)
 [![Linkedin Badge](https://img.shields.io/badge/-/in/oarnosa-ebedf0?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/oarnosa/)](https://www.linkedin.com/in/oarnosa/)
