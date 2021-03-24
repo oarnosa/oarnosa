@@ -1,9 +1,9 @@
 ## Hey, I'm [Orlando](https://orlandoarnosa.com) 👋 &mdash; a tech enthusiast and full stack dev.
 
 • Focused on **JavaScript** stack, currently learning **Python** 🐍
-<br/>• Computer Science graduate from Florida International University 🎓
+<br/>• Computer Science graduate from **Florida International University** 🎓
 <br/>• Enthusiast about the best development technologies 👩🏻‍💻
-<br/>• I love to talk about: Programming, Science, Gaming, Music 🎮
+<br/>• I love to talk about: **Programming, Science, Gaming, Music** 🎮
 <br/>• Contact me at oarnosa@gmail.com 💌
 
 ### Languages and Tools:
