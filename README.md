@@ -1,4 +1,4 @@
-## Hey, I'm [Orlando](https://orlandoarnosa.com) 👋 &mdash; a tech enthusiast and full stack dev.
+## Hey, I'm [Orlando](https://orlandoarnosa.com) 👋 &mdash; a tech enthusiast and full stack dev
 
 • Focused on **JavaScript** stack, currently learning **Python** 🐍
 <br/>• Computer Science graduate from **Florida International University** 🎓
