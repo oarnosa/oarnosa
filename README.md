@@ -3,7 +3,7 @@
 • Focused on **JavaScript** stack, currently learning **Python** 🐍
 <br/>• Computer Science graduate from **Florida International University** 🎓
 <br/>• Enthusiast about the best development technologies 👨🏻‍💻
-<br/>• I love to talk about: **Programming, Science, Gaming, Music** 🎮
+<br/>• I love to talk about: **Programming, Science, Gaming, Anime, Music** 🎮
 <br/>• Contact me at oarnosa@gmail.com 💌
 
 ### Languages and Tools:
