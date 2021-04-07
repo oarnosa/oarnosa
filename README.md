@@ -40,3 +40,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-/in/oarnosa-ebedf0?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/oarnosa/)](https://www.linkedin.com/in/oarnosa/)
 [![Instagram Badge](https://img.shields.io/badge/-@arno__lando-ebedf0?style=flat-square&logo=instagram&logoColor=white&labelColor=E1306C&link=https://www.linkedin.com/in/oarnosa/)](https://instagram.com/arno_lando)
 [![Gmail Badge](https://img.shields.io/badge/-oarnosa@gmail.com-ebedf0?style=flat-square&logo=Gmail&logoColor=white&labelColor=red&link=mailto:oarnosa@gmail.com)](mailto:oarnosa@gmail.com)
+![](https://hit.yhype.me/github/profile?user_id=31714792)
