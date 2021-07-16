@@ -9,8 +9,8 @@
 ### Languages and Tools:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-ebedf0?style=flat-square&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-ebedf0?style=flat-square&logo=javascript)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-ebedf0?style=flat-square&logo=Next.js&logoColor=000)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-ebedf0?style=flat-square&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-ebedf0?style=flat-square&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-ebedf0?style=flat-square&logo=redux&logoColor=764abc)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-ebedf0?style=flat-square&logo=node.js)&nbsp;
