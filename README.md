@@ -21,6 +21,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-ebedf0?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PostCSS](https://img.shields.io/badge/-PostCSS-ebedf0?style=flat-square&logo=postcss&logoColor=DD3A0A)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-ebedf0?style=flat-square&logo=SASS&logoColor=bf4080)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-ebedf0?style=flat-square&logo=PHP)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-ebedf0?style=flat-square&logo=markdown&logoColor=343a40)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-ebedf0?style=flat-square&logo=tailwind%20css)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ebedf0?style=flat-square&logo=bootstrap&logoColor=563D7C)&nbsp;
