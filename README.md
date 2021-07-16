@@ -19,6 +19,7 @@
 ![Django](https://img.shields.io/badge/-Django-ebedf0?style=flat-square&logo=django&logoColor=092E20)\
 ![HTML](https://img.shields.io/badge/-HTML-ebedf0?style=flat-square&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-ebedf0?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![PostCSS](https://img.shields.io/badge/-PostCSS-ebedf0?style=flat-square&logo=postcss&logoColor=DD3A0A)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-ebedf0?style=flat-square&logo=SASS&logoColor=bf4080)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-ebedf0?style=flat-square&logo=markdown&logoColor=343a40)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-ebedf0?style=flat-square&logo=tailwind%20css)&nbsp;
@@ -30,7 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ebedf0?style=flat-square&logo=postgresql&logoColor=336791)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ebedf0?style=flat-square&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-ebedf0?style=flat-square&logo=firebase)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-ebedf0?style=flat-square&logo=prisma&logoColor=256d7b)&nbsp;
+![Prisma](https://img.shields.io/badge/-Prisma-ebedf0?style=flat-square&logo=prisma&logoColor=2D3748)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ebedf0?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/-Linux-ebedf0?style=flat-square&logo=linux)&nbsp;
 <br/>
