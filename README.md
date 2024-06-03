@@ -4,7 +4,6 @@
 <br/>• Computer Science graduate from **Florida International University** 🎓
 <br/>• Enthusiastic about the best development technologies 👨🏻‍💻
 <br/>• I love to talk about: **Programming, Science, Gaming, Anime** 🎮
-<br/>• Contact me at oarnosa@gmail.com 💌
 
 ### Languages and Tools:
 
@@ -35,6 +34,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ebedf0?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/-Linux-ebedf0?style=flat-square&logo=linux)&nbsp;
 
+### Contact Me:
 [![Linkedin Badge](https://img.shields.io/badge/-/in/oarnosa-ebedf0?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/oarnosa/)](https://www.linkedin.com/in/oarnosa/)
 [![Portfolio Badge](https://img.shields.io/badge/-orlandoarnosa.com-ebedf0?style=flat-square&logo=Google%20Chrome&logoColor=white&labelColor=15847D&link=https://orlandoarnosa.com)](https://orlandoarnosa.com)
 [![Gmail Badge](https://img.shields.io/badge/-oarnosa@gmail.com-ebedf0?style=flat-square&logo=Gmail&logoColor=white&labelColor=red&link=mailto:oarnosa@gmail.com)](mailto:oarnosa@gmail.com)
