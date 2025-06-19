@@ -1,4 +1,4 @@
-## Hey, I’m Orlando 👋 — a full-stack developer, ecommerce & marketing specialist, and proud girl dad.
+## Hey, I’m Orlando 👋 — full-stack dev, ecommerce & marketing specialist, and proud girl dad.
 
 • Specializing in the TypeScript ecosystem (Next.js, Node.js)  
 • Focused on building scalable ecommerce platforms and integrations 🛍️  
