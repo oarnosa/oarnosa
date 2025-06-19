@@ -17,8 +17,6 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)&nbsp;
@@ -39,4 +37,5 @@
 ### Contact and Socials:
 [![Gmail Badge](https://img.shields.io/badge/-oarnosa@gmail.com-ebedf0?style=flat-square&logo=Gmail&logoColor=white&labelColor=red&link=mailto:oarnosa@gmail.com)](mailto:oarnosa@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-orlandoarnosa.com-ebedf0?style=flat-square&logo=Google%20Chrome&logoColor=white&labelColor=15847D&link=https://orlandoarnosa.com)](https://orlandoarnosa.com)
-[![Linkedin Badge](https://img.shields.io/badge/-/in/oarnosa-ebedf0?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/oarnosa/)](https://www.linkedin.com/in/oarnosa/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/oarnosa/)](https://www.linkedin.com/in/oarnosa/)
+
