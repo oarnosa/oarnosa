@@ -34,8 +34,3 @@
 ![Shopify](https://img.shields.io/badge/-Shopify-96bf48?style=flat-square&logo=shopify&logoColor=white)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-### Contact and Socials:
-[![Gmail Badge](https://img.shields.io/badge/-oarnosa@gmail.com-ebedf0?style=flat-square&logo=Gmail&logoColor=white&labelColor=red&link=mailto:oarnosa@gmail.com)](mailto:oarnosa@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-orlandoarnosa.com-ebedf0?style=flat-square&logo=Google%20Chrome&logoColor=white&labelColor=15847D&link=https://orlandoarnosa.com)](https://orlandoarnosa.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/oarnosa/)](https://www.linkedin.com/in/oarnosa/)
-
