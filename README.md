@@ -32,7 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0C344B?style=flat-square&logo=prisma&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![Shopify](https://img.shields.io/badge/-Shopify-96bf48?style=flat-square&logo=shopify&logoColor=white)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
