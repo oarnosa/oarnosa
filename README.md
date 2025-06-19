@@ -4,7 +4,7 @@
 • Focused on building scalable ecommerce platforms and integrations 🛍️  
 • B.S. in Computer Science from Florida International University 🎓  
 • Passionate about clean architecture, great user experiences, and continuous learning  
-• Always down to chat about dev, gaming, anime, or the science behind cool tech 🔬🎮
+• Always down to chat about dev, gaming, sports, or the science behind cool tech 🔬🎮
 
 ### Languages and Tools:
 
