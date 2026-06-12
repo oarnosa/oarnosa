@@ -5,5 +5,3 @@ I wire frontends to the systems that actually run businesses. ERPs, marketplaces
 TypeScript, C#, or Python, whatever the job needs. Most of it lives in private repos, so it's quiet here. 
 
 The full story's at [orlandoarnosa.com](https://orlandoarnosa.com).
-
-Miami. Girl dad with a boy on the way.
