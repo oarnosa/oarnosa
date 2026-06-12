@@ -1,8 +1,7 @@
-## Orlando Arnosa
+## Hey, I'm Orlando.
 
-- Senior Full Stack Developer
-- Systems Integration & Data Pipelines
+I wire frontends to the systems that actually run businesses. ERPs, marketplaces, legacy databases that don't play nice with anything. These days it's ecommerce integrations, data pipelines, and teaching warehouse robots to take orders from an ERP.
 
-I wire frontends to the systems that actually run businesses. ERPs, marketplaces, the pipelines between them. TypeScript, C#, or Python, whatever the job needs.
+TypeScript, C#, or Python, whatever the job needs. Most of it lives in private repos, so it's quiet here. The fuller story's at [orlandoarnosa.com](https://orlandoarnosa.com).
 
-Most of my work lives in private repos, so it's quiet here. Fuller story's at [orlandoarnosa.com](https://orlandoarnosa.com).
+Miami. Girl dad with a boy on the way.
